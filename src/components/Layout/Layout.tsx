@@ -6,8 +6,8 @@ const useStyles = createStyles(() => ({
   wrapper: {
     display: "flex",
     flexDirection: "column",
-    justifyContent: "center",
     alignItems: "center",
+    minHeight: "1000px",
     padding: "20px",
   },
 }));
